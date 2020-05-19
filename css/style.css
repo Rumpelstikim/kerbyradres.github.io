@@ -1,7 +1,8 @@
 /*	===================
 	| SLY DATE-PICKER |
 	===================	*/
-.date-picker {
+
+*/.date-picker {
 	position: relative;
 	width: 180px;
 	height: 110px;
@@ -203,3 +204,4 @@ div#right {
 label {
 	margin-top: 15px !important;
 }
+/*
